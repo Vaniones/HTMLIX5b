@@ -21,7 +21,7 @@ a:hover{
 	transition: 0.2s ease;
 }
 html{
-	background-color:white;
+	background-image: url("./visuals/bg/bg0001.png");
 	height:100%;
 }
 body{
