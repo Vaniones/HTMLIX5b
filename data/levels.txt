@@ -1,5 +1,5 @@
 
-Time to explore
+Time to explore.
 32,18,01,00,L
 ................................
 ................................
@@ -29,7 +29,7 @@ Time to explore
 99S Use the arrow keys to move and press the space bar to jump.
 000000
 
-First danger
+First danger.
 32,18,01,00,L
 ................................
 ......:.........................
@@ -54,7 +54,7 @@ First danger
 99S Before you make that perilous leap, remember that you can press 'R' to reset the level!
 000000
 
-Pillar
+Pillar.
 32,18,01,00,L
 ................................
 ................................
@@ -78,7 +78,7 @@ Pillar
 00
 000000
 
-Going under
+Going under.
 32,18,01,00,L
 ..............................//
 .........................../////
@@ -102,7 +102,7 @@ Going under
 00
 000000
 
-Small packages
+Small packages.
 50,18,03,01,L
 ...//////////////////////////...............//////
 .....////.6....../........../..................../
@@ -130,7 +130,7 @@ Small packages
 99S You can press 'DOWN' to set the box down, or press 'UP' again to throw it.
 000000
 
-Landfill
+Landfill.
 32,18,05,04,L
 ////////////////////////////////
 /............................../
@@ -158,7 +158,7 @@ Landfill
 00
 000000
 
-Rock bottom
+Rock bottom.
 32,50,03,06,L
 ///////////////////_//////^/////
 ..................///.../^^/....
@@ -216,7 +216,7 @@ YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
 00
 000000
 
-A friend
+A friend.
 32,18,05,05,L
 ////////_///////////////_///////
 /:....../777777777777777/....../
