@@ -85,6 +85,7 @@ let longMode = false;
 let quirksMode = false;
 let enableExperimentalFeatures = false;
 let levelAlreadySharedToExplore = false;
+let enableAIExplorer = false;
 
 function clearVars() {
 	deathCount = timer = coins = bonusProgress = levelProgress = 0;
